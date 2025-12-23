@@ -20,7 +20,7 @@ Este repositorio contiene mis certificaciones académicas organizadas por áreas
 * **Python desde cero (12h):** Fundamentos de algoritmia, estructuras de control (bucles y condicionales) y funciones recursivas[cite: 91, 103, 126, 169].
 
 ### 🛡️ Ciberseguridad
-* [cite_start]**Análisis Forense:** Introducción al volcado de memoria RAM, clonado de discos y análisis de logs en entornos Windows[cite: 185, 191, 192, 193].
+* **Análisis Forense:** Introducción al volcado de memoria RAM, clonado de discos y análisis de logs en entornos Windows[cite: 185, 191, 192, 193].
 
 ---
 [LinkedIn](www.linkedin.com/in/gonzalocarrascosánchez) | [Contacto](mailto:goncarrass@gmail.com)
