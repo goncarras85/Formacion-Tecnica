@@ -7,11 +7,11 @@ Este repositorio centraliza mis certificaciones académicas organizadas por áre
 
 | Área | Curso / Taller | Plataforma | Duración | Fecha |
 | :--- | :--- | :--- | :--- | :--- |
-| **Programación** | [Aprende a programar en Python 3](./Python) | OpenWebinars | 20h | 22 Dic 2025 |
-| **Programación** | [Python desde cero](./Python) | OpenWebinars | 12h | 22 Dic 2025 |
-| **Seguridad** | [Análisis forense avanzado en sistemas Windows](./Ciberseguridad) | OpenWebinars | 1h | 23 Dic 2025 |
-| **Seguridad** | [Análisis forense básico en sistemas Linux](./Ciberseguridad) | OpenWebinars | 1h | 23 Dic 2025 |
-| **Seguridad** | [Análisis forense básico en sistemas Windows](./Ciberseguridad) | OpenWebinars | 1h | 22 Dic 2025 |
+| **Programación** | [Aprende a programar en Python 3](./Python/python_avanzado.pdf) | OpenWebinars | 20h | 22 Dic 2025 |
+| **Programación** | [Python desde cero](./Python/python_basico.pdf) | OpenWebinars | 12h | 22 Dic 2025 |
+| **Seguridad** | [Análisis forense avanzado en Windows](./Ciberseguridad/forense_windows_avanzado.pdf) | OpenWebinars | 1h | 23 Dic 2025 |
+| **Seguridad** | [Análisis forense básico en Linux](./Ciberseguridad/forense_linux_basico.pdf) | OpenWebinars | 1h | 23 Dic 2025 |
+| **Seguridad** | [Análisis forense básico en Windows](./Ciberseguridad/forense_windows_basico.pdf) | OpenWebinars | 1h | 22 Dic 2025 |
 
 ---
 
