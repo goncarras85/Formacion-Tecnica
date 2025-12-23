@@ -16,8 +16,8 @@ Este repositorio contiene mis certificaciones académicas organizadas por áreas
 ## 📂 Detalle de Contenidos
 
 ### 🐍 Python
-* [cite_start]**Curso Avanzado (20h):** Especialización en Programación Orientada a Objetos (POO), herencia, polimorfismo y gestión de ficheros JSON/CSV[cite: 5, 60, 61, 78].
-* [cite_start]**Python desde cero (12h):** Fundamentos de algoritmia, estructuras de control (bucles y condicionales) y funciones recursivas[cite: 91, 103, 126, 169].
+* **Curso Avanzado (20h):** Especialización en Programación Orientada a Objetos (POO), herencia, polimorfismo y gestión de ficheros JSON/CSV[cite: 5, 60, 61, 78].
+* **Python desde cero (12h):** Fundamentos de algoritmia, estructuras de control (bucles y condicionales) y funciones recursivas[cite: 91, 103, 126, 169].
 
 ### 🛡️ Ciberseguridad
 * [cite_start]**Análisis Forense:** Introducción al volcado de memoria RAM, clonado de discos y análisis de logs en entornos Windows[cite: 185, 191, 192, 193].
